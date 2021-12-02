@@ -1,4 +1,4 @@
-# Justin Ventura Advent of Code
+# Justin Ventura Advent of Code DAY 1
 
 if __name__ == '__main__':
     lines = [line.rstrip('\n') for line in open('sonar_sweep_data.txt', 'r')]
